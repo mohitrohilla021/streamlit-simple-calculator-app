@@ -16,9 +16,12 @@ A straightforward and user-friendly calculator app built with Streamlit, a popul
 - Install dependencies: pip install -r requirements.txt
 - Run the app: streamlit run app.py
 
-Usage
-Input values using the on-screen buttons or your keyboard.
-Select the desired operation.
-The result will be displayed in real-time.
+## Usage
+
+- Input values using the on-screen buttons or your keyboard.
+- Select the desired operation.
+- The result will be displayed in real-time.
+
+
 Contributions
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, feel free to open an issue or create a pull request.
