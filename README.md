@@ -11,7 +11,7 @@ A straightforward and user-friendly calculator app built with Streamlit, a popul
 - Real-time Updates: Results are displayed instantly as users input values or perform operations.
 - Streamlit-Powered: Leverage the power of Streamlit for rapid development and deployment.
 
-## Getting Started
+## Getting Started 
 
 - Clone the repository: git clone https://github.com/your-username/simple-calculator-app.git
 - Navigate to the project directory: cd simple-calculator-app
