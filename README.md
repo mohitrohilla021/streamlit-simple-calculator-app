@@ -24,7 +24,6 @@ A straightforward and user-friendly calculator app built with Streamlit, a popul
 - Select the desired operation.
 - The result will be displayed in real-time.
 
-
 ## Contributions
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, feel free to open an issue or create a pull request.
